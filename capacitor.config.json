@@ -1,0 +1,13 @@
+{
+  "appId": "ai.nextgen.app",
+  "appName": "NEXTGEN AI",
+  "webDir": "android-shell",
+  "server": {
+    "url": "https://nextgen-ai-app-d5677d.netlify.app/chat",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#0b0d10"
+  }
+}
